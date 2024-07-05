@@ -1,0 +1,11 @@
+Metadata-Version: 1.2
+Name: d2l
+Version: 0.15.1
+Summary: Dive into Deep Learning
+Home-page: https://d2l.ai
+Author: D2L Developers
+Author-email: d2l.devs@gmail.com
+License: MIT-0
+Description: UNKNOWN
+Platform: UNKNOWN
+Requires-Python: >=3.5

@@ -1,0 +1,12 @@
+README.md
+setup.py
+d2l/__init__.py
+d2l/mxnet.py
+d2l/tensorflow.py
+d2l/torch.py
+d2l.egg-info/PKG-INFO
+d2l.egg-info/SOURCES.txt
+d2l.egg-info/dependency_links.txt
+d2l.egg-info/requires.txt
+d2l.egg-info/top_level.txt
+d2l.egg-info/zip-safe
